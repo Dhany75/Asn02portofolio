@@ -1,0 +1,18 @@
+.home {
+  background-image: url(img/1.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+h1.p {
+  margin: top;
+  padding-top: ;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.home h1 {
+  color: aliceblue;
+}
